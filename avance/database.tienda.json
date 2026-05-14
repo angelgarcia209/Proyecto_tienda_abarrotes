@@ -1,0 +1,184 @@
+[{
+  "_id": {
+    "$oid": "6a048c9e80a23b96d23d8575"
+  },
+  "nombre": "Arroz 1kg",
+  "categoria": "Granos",
+  "precio": 28.5,
+  "stock": 35,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048c9e80a23b96d23d8576"
+  },
+  "nombre": "Frijol 1kg",
+  "categoria": "Granos",
+  "precio": 32,
+  "stock": 20,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048c9e80a23b96d23d8577"
+  },
+  "nombre": "Leche 1L",
+  "categoria": "Lácteos",
+  "precio": 24,
+  "stock": 0,
+  "en_stock": false
+},
+{
+  "_id": {
+    "$oid": "6a048c9e80a23b96d23d8578"
+  },
+  "nombre": "Pan blanco",
+  "categoria": "Panadería",
+  "precio": 45,
+  "stock": 12,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d857b"
+  },
+  "nombre": "Refresco 2L",
+  "precio": 38,
+  "stock": 8,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d857c"
+  },
+  "nombre": "Aceite 900ml",
+  "precio": 42,
+  "stock": 15,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d857d"
+  },
+  "nombre": "Azúcar 1kg",
+  "precio": 27,
+  "stock": 18,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d857e"
+  },
+  "nombre": "Sal 1kg",
+  "precio": 16.5,
+  "stock": 25,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d857f"
+  },
+  "nombre": "Huevos docena",
+  "precio": 48,
+  "stock": 10,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8580"
+  },
+  "nombre": "Jabón de baño",
+  "precio": 19,
+  "stock": 30,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8581"
+  },
+  "nombre": "Papel higiénico paquete",
+  "precio": 65,
+  "stock": 14,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8582"
+  },
+  "nombre": "Galletas",
+  "precio": 22,
+  "stock": 40,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8583"
+  },
+  "nombre": "Café soluble",
+  "precio": 78,
+  "stock": 6,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8584"
+  },
+  "nombre": "Atún en lata",
+  "precio": 26,
+  "stock": 17,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8585"
+  },
+  "nombre": "Sopa instantánea",
+  "precio": 14,
+  "stock": 50,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8586"
+  },
+  "nombre": "Agua 1L",
+  "precio": 15,
+  "stock": 60,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8587"
+  },
+  "nombre": "Detergente",
+  "precio": 89,
+  "stock": 7,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8588"
+  },
+  "nombre": "Shampoo",
+  "precio": 55,
+  "stock": 9,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d8589"
+  },
+  "nombre": "Cepillo dental",
+  "precio": 25,
+  "stock": 13,
+  "en_stock": true
+},
+{
+  "_id": {
+    "$oid": "6a048d8380a23b96d23d858a"
+  },
+  "nombre": "Chocolate",
+  "precio": 18,
+  "stock": 0,
+  "en_stock": false
+}]
